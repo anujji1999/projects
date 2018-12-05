@@ -32,9 +32,6 @@ social:
   - GitLab:
       - username: anctartica
       - link: https://gitlab.com/anctartica
-  - Gitter:
-      - username: anctartica
-      - link: https://gitter.im/anctartica
   - OpenHub:
       - username: anctartica
       - link: https://www.openhub.net/accounts/anctartica
